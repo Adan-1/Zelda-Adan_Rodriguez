@@ -342,6 +342,7 @@ Para todos los html
     display: flex;
     justify-content: center;
 }
+/* media */
 @media (max-width:330px){
     body{
         width: 150%;
