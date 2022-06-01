@@ -321,7 +321,27 @@ Para todos los html
     background-color: rgb(59, 141, 248);
 }
 
-
+/*Estilos de servicions.html  */
+.servicios__titulo{
+    display: flex;
+    justify-content: center;
+    font-size: 32px;
+}
+.servicios__mapa{
+    display: flex;
+    justify-content: center;
+}
+.formulario {
+    display: flex;
+    justify-content: center;
+}
+.envio{
+    margin: 30px 45px;
+}
+.servicios__buscar{
+    display: flex;
+    justify-content: center;
+}
 @media (max-width:330px){
     body{
         width: 150%;
